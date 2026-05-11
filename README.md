@@ -15,7 +15,7 @@ Chatbot asisten memasak berbasis AI menggunakan **Google Gemini** dan **Streamli
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/resep-masakan-chatbot.git
+git clone https://github.com/rnajlaa08/resep-masakan-chatbot.git
 cd resep-masakan-chatbot
 ```
 
