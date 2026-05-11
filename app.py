@@ -119,7 +119,7 @@ if prompt:
                     history.append(m)
  
                 chat = client.chats.create(
-                    model="gemini-2.0-flash",
+                    model="gemini-2.5-flash",
                     config={"system_instruction": SYSTEM_PROMPT},
                     history=history,
                 )
